@@ -1,0 +1,13 @@
+   function [a-zA-Z_]{1,}\(param1:int\) \: int
+
+   function [a-zA-Z_]{1,}\(param1:int\) \: boolean
+
+   function [a-zA-Z_]{1,}\(param1:int\) \: number
+
+   function [a-zA-Z_]{2,}\(param1:boolean\) \: boolean
+
+   function [a-zA-Z_]{2,}\(param1:number\) \: boolean
+
+   function [a-zA-Z_]{1,}\(param1:boolean\) \: int
+
+   function get is
